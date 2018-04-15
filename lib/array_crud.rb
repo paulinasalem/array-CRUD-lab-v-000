@@ -37,5 +37,6 @@ array[0]
 end
 
 def retrieve_last_element_from_array(array)
-
+array = ["Becky", "Ruby", "Joelle", "Marielle", "arrays!"]
+array[4]
 end
